@@ -10,7 +10,6 @@ Release notes for [ioncode](https://ioncoden.web.app), the cloud IDE and develop
 <sub>November 15, 2026</sub>
 
 The first public release of the ioncode workspace.
-
 <br>
 
 ---
